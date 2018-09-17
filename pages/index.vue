@@ -6,7 +6,7 @@
         nuxt-demo
       </h1>
       <h2 class="subtitle">
-        My stupendous Nuxt.js project
+        My horrifying Nuxt.js project
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
